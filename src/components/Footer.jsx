@@ -32,11 +32,11 @@ export default function Footer() {
         <div className="footer-contact" style={{ display: 'flex', alignItems: 'center', gap: '1.25rem' }}>
           <span style={{ display: 'flex', alignItems: 'center', gap: '0.35rem' }}>
             <Mail size={14} color="var(--primary)" />
-            <a href="mailto:contact@aipnt.com">contact@aipnt.com</a>
+            <a href="mailto:info@aipnt.com">info@aipnt.com</a>
           </span>
           <span style={{ display: 'flex', alignItems: 'center', gap: '0.35rem' }}>
             <Globe size={14} color="var(--primary)" />
-            <a href="https://aipnt.com" target="_blank" rel="noreferrer">aipnt.com</a>
+            <a href="https://aipnt.in" target="_blank" rel="noreferrer">aipnt.in</a>
           </span>
         </div>
       </div>
